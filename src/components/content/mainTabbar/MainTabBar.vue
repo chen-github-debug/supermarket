@@ -1,4 +1,5 @@
 <template>
+
   <tab-bar>
     <tab-bar-item path="/home" activeColor="cornflowerblue">
       <img slot="item-icon" src="~assets/img/tabbar/shouye1.png" alt="">
